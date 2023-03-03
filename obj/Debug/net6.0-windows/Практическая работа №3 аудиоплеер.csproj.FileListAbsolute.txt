@@ -1,0 +1,24 @@
+C:\Users\nikol\source\repos\Практическая работа №3 аудиоплеер\Практическая работа №3 аудиоплеер\bin\Debug\net6.0-windows\Практическая работа №3 аудиоплеер.exe
+C:\Users\nikol\source\repos\Практическая работа №3 аудиоплеер\Практическая работа №3 аудиоплеер\bin\Debug\net6.0-windows\Практическая работа №3 аудиоплеер.deps.json
+C:\Users\nikol\source\repos\Практическая работа №3 аудиоплеер\Практическая работа №3 аудиоплеер\bin\Debug\net6.0-windows\Практическая работа №3 аудиоплеер.runtimeconfig.json
+C:\Users\nikol\source\repos\Практическая работа №3 аудиоплеер\Практическая работа №3 аудиоплеер\bin\Debug\net6.0-windows\Практическая работа №3 аудиоплеер.dll
+C:\Users\nikol\source\repos\Практическая работа №3 аудиоплеер\Практическая работа №3 аудиоплеер\bin\Debug\net6.0-windows\Практическая работа №3 аудиоплеер.pdb
+C:\Users\nikol\source\repos\Практическая работа №3 аудиоплеер\Практическая работа №3 аудиоплеер\obj\Debug\net6.0-windows\Практическая работа №3 аудиоплеер.csproj.AssemblyReference.cache
+C:\Users\nikol\source\repos\Практическая работа №3 аудиоплеер\Практическая работа №3 аудиоплеер\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\nikol\source\repos\Практическая работа №3 аудиоплеер\Практическая работа №3 аудиоплеер\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\nikol\source\repos\Практическая работа №3 аудиоплеер\Практическая работа №3 аудиоплеер\obj\Debug\net6.0-windows\Практическая работа №3 аудиоплеер_MarkupCompile.cache
+C:\Users\nikol\source\repos\Практическая работа №3 аудиоплеер\Практическая работа №3 аудиоплеер\obj\Debug\net6.0-windows\Практическая работа №3 аудиоплеер_MarkupCompile.lref
+C:\Users\nikol\source\repos\Практическая работа №3 аудиоплеер\Практическая работа №3 аудиоплеер\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\nikol\source\repos\Практическая работа №3 аудиоплеер\Практическая работа №3 аудиоплеер\obj\Debug\net6.0-windows\Практическая работа №3 аудиоплеер.g.resources
+C:\Users\nikol\source\repos\Практическая работа №3 аудиоплеер\Практическая работа №3 аудиоплеер\obj\Debug\net6.0-windows\Практическая работа №3 аудиоплеер.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikol\source\repos\Практическая работа №3 аудиоплеер\Практическая работа №3 аудиоплеер\obj\Debug\net6.0-windows\Практическая работа №3 аудиоплеер.AssemblyInfoInputs.cache
+C:\Users\nikol\source\repos\Практическая работа №3 аудиоплеер\Практическая работа №3 аудиоплеер\obj\Debug\net6.0-windows\Практическая работа №3 аудиоплеер.AssemblyInfo.cs
+C:\Users\nikol\source\repos\Практическая работа №3 аудиоплеер\Практическая работа №3 аудиоплеер\obj\Debug\net6.0-windows\Практическая работа №3 аудиоплеер.csproj.CoreCompileInputs.cache
+C:\Users\nikol\source\repos\Практическая работа №3 аудиоплеер\Практическая работа №3 аудиоплеер\obj\Debug\net6.0-windows\Практическая работа №3 аудиоплеер.dll
+C:\Users\nikol\source\repos\Практическая работа №3 аудиоплеер\Практическая работа №3 аудиоплеер\obj\Debug\net6.0-windows\refint\Практическая работа №3 аудиоплеер.dll
+C:\Users\nikol\source\repos\Практическая работа №3 аудиоплеер\Практическая работа №3 аудиоплеер\obj\Debug\net6.0-windows\Практическая работа №3 аудиоплеер.pdb
+C:\Users\nikol\source\repos\Практическая работа №3 аудиоплеер\Практическая работа №3 аудиоплеер\obj\Debug\net6.0-windows\Практическая работа №3 аудиоплеер.genruntimeconfig.cache
+C:\Users\nikol\source\repos\Практическая работа №3 аудиоплеер\Практическая работа №3 аудиоплеер\obj\Debug\net6.0-windows\ref\Практическая работа №3 аудиоплеер.dll
+C:\Users\nikol\source\repos\Практическая работа №3 аудиоплеер\Практическая работа №3 аудиоплеер\bin\Debug\net6.0-windows\Microsoft.WindowsAPICodePack.dll
+C:\Users\nikol\source\repos\Практическая работа №3 аудиоплеер\Практическая работа №3 аудиоплеер\bin\Debug\net6.0-windows\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\nikol\source\repos\Практическая работа №3 аудиоплеер\Практическая работа №3 аудиоплеер\obj\Debug\net6.0-windows\Практическая работа №3 аудиоплеер.csproj.CopyComplete
